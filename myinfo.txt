@@ -1,2 +1,2 @@
-"Name: Khaqan Nadeem" 
+"Name: Khaqan Nadeem." 
 Email = khaqannadeem@gmail.com 
